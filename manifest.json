@@ -1,6 +1,6 @@
 {
     "name": "Mod Organizer 2",
-    "platform": "generic",
+    "platform": "nswitch",
     "guid": "ea0d0a42-0717-49a9-850c-07a334a92611",
     "version": "0.1",
     "description": "Allows launching global instances of Mod Organizer 2.",

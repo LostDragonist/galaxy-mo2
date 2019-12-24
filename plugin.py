@@ -5,7 +5,7 @@ from galaxy.api.consts import Platform
 class PluginExample(Plugin):
     def __init__(self, reader, writer, token):
         super().__init__(
-            Platform.Generic, # Choose platform from available list
+            Platform.NintendoSwitch, # Choose platform from available list
             "0.1", # Version
             reader,
             writer,
